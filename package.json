@@ -1,0 +1,19 @@
+{
+  "name": "angka",
+  "version": "1.0.0",
+  "description": "convert number to words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibamibrhm/angka.git"
+  },
+  "author": "Ibrahim (@ibamibrhm)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ibamibrhm/angka/issues"
+  },
+  "homepage": "https://github.com/ibamibrhm/angka#readme"
+}
