@@ -6,8 +6,6 @@
 
 Untuk sekarang hanya ada konversi number ke penyebutnya.
 
-> const angka = require('angka')
-<br>
-<br>
+> const angka = require('angka') <br> <br>
 > angka(500) <br><br>
-output: lima ratus
+> output: lima ratus
