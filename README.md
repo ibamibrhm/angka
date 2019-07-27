@@ -1,6 +1,8 @@
 # angka ![npm](https://img.shields.io/npm/v/angka?label=angka)
 
-** angka ** adalah project open source untuk memudahkan developer javascript dalam mengolah angka-angka.
+Link NPM [angka](https://www.npmjs.com/package/angka)
+
+**angka** adalah project open source untuk memudahkan developer javascript dalam mengolah angka-angka.
 
 ## Penggunaan
 
