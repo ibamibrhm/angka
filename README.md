@@ -8,6 +8,6 @@ Link NPM [angka](https://www.npmjs.com/package/angka)
 
 Untuk sekarang hanya ada konversi number ke penyebutnya.
 
-> const angka = require('angka') <br> <br>
-> angka(500) <br><br>
+> const { numberToWords } = require('angka') <br> <br>
+> numberToWords(500) <br><br>
 > output: lima ratus
